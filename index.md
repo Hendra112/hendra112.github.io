@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Natural Language Processing
 
-[Project 1 Title](/sample_page)
+[CS224n: Natural Language Processing with Deep Learning](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
